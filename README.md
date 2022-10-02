@@ -1,4 +1,3 @@
-[![MasterHead](https://64.media.tumblr.com/8b2a2d3957cf13e5548f08504f0e1d4a/tumblr_owsbgsWF5R1r5u9m2o3_r1_500.gif]
 <h1 align="center">Hi 👋, I'm Michal Dostal</h1>
 <h3 align="center">A passionate developer from Czech Republic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
