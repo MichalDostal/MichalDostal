@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michal Dostal</h1>
 <h3 align="center">A passionate developer from Czech Republic</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-
-
-
-
-
 <a href="https://codepen.io/michaldostal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="michaldostal" height="30" width="40" /></a>
 <a href="https://dev.to/michaldostal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="michaldostal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16988396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16988396" height="30" width="40" /></a>
