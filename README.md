@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 📫 How to reach me **michaldostal2006@gmail.com**
 
 
 <a href="https://codepen.io/michaldostal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="michaldostal" height="30" width="40" /></a>
