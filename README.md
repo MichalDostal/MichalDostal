@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **michaldostal2006@gmail.com**
 
-- ⚡ Fun fact **I love football😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
