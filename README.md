@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML and CSS**
-
 - 📫 How to reach me **michaldostal2006@gmail.com**
 
 
