@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michal Dostal</h1>
 <h3 align="center">A passionate developer from Czech Republic</h3>
-<a href="https://codepen.io/michaldostal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="michaldostal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
