@@ -23,11 +23,3 @@ A passionate developer from Czech Republic
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michaldostal&show_icons=true&locale=en" alt="michaldostal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaldostal&" alt="michaldostal" /></p>
-
-
-
-
-3
-
-
-
