@@ -26,6 +26,3 @@ A passionate developer from Czech Republic
 
 1
 2
-3
-
-
